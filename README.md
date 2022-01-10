@@ -2,7 +2,8 @@
 
 Server counterpart for https://github.com/NicolaasVJ/Property-Management-Client
 
-Application performs calculations based on received values, result of equation is sent back to respective thin-client computers.
+Multi-threaded Application performs calculations based on received values, result of equation is sent back to respective thin-client computers.
+Communication between the client and server application is performed using java socket programming.
 
 # Setup instructions
 Step 1: Open the calcServerConfig.txt file contained in the PropertyManagementServer
