@@ -6,7 +6,7 @@ Application performs calculations based on received values, result of equation i
 
 # Setup instructions
 Step 1: Open the calcServerConfig.txt file contained in the PropertyManagementServer
-folder and edit it as desired. It should only have the port number.
+folder and edit it as desired. It should only contain the port number to be used.
 
 Step 2: Run the PropertManagement_KKMND_SERVER.jar file
 
