@@ -9,7 +9,7 @@ Communication between the client and server application is performed using java 
 Step 1: Open the calcServerConfig.txt file contained in the PropertyManagementServer
 folder and edit it as desired. It should only contain the port number to be used.
 
-Step 2: Run the PropertManagement_KKMND_SERVER.jar file
+Step 2: Run the PropertyManagement_KKMND_SERVER.jar file
 
 Step 3: Take note of the server IP and port number as this is what should be used for calcConfig.txt file in the client application (https://github.com/NicolaasVJ/Property-Management-Client).
 
